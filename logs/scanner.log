@@ -16,3 +16,11 @@
 2026-05-11 13:23:06,203 - WARNING - Bearer Token found in sample_secrets.txt line 5
 2026-05-11 13:23:06,203 - WARNING - Private Key found in sample_secrets.txt line 7
 2026-05-11 13:23:06,206 - INFO - Scan completed.
+2026-05-11 13:45:42,749 - INFO - Starting scan: sample_secrets.txt
+2026-05-11 13:45:42,775 - WARNING - Password found in sample_secrets.txt line 2
+2026-05-11 13:45:42,776 - WARNING - AWS Access Key found in sample_secrets.txt line 4
+2026-05-11 13:45:42,776 - WARNING - Bearer Token found in sample_secrets.txt line 6
+2026-05-11 13:45:42,776 - WARNING - Private Key found in sample_secrets.txt line 8
+2026-05-11 13:45:42,776 - WARNING - Password found in sample_secrets.txt line 10
+2026-05-11 13:45:42,776 - WARNING - AWS Access Key found in sample_secrets.txt line 12
+2026-05-11 13:45:42,780 - INFO - Scan completed.
